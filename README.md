@@ -1,6 +1,4 @@
-# Node.js
-Node.js webservice wrapper for Farapayamak 
-
+# Farapayamak Node.js
 
 ## Introduction
 Here we've provided a complete 3rd-party library (SDK) for Nodejs developers that covers both **SOAP** and **REST** webservices. Before using, make sure you have provided a [valid account in Farapayamak corporation](https://farapayamak.ir/start/).
