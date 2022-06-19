@@ -1,5 +1,5 @@
 {
-    "name": "nodejs",
+    "name": "farapayamak",
     "version": "1.0.0",
     "description": "Farapayamak Nodejs Webservice Wrapper",
     "main": "rest-sample.js",
